@@ -5,3 +5,4 @@
 *.xml linguist-detectable=false 
 *.asm linguist-detectable=false
 *.shaderlab linguist-detectable=false
+*.css linguist-detectable=false
