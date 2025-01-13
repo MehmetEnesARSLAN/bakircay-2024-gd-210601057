@@ -1,3 +1,5 @@
+Oyunun linki: https://play.unity.com/en/games/cc86da5e-32ed-4a65-95a9-1831f9f71b9d/match-3d
+
 Bu projede, Unity oyun motorunu kullanarak bir eşleştirme oyunu geliştiriyoruz. Oyunun temel amacı, kullanıcıların oyun alanındaki nesneleri doğru şekilde eşleştirerek puan toplaması üzerine kurulu. Oyun, WebGL platformunda çalışacak şekilde yapılandırılıyor ve bu sayede tarayıcı tabanlı bir deneyim sunuyor. İşte proje geliştirme sürecindeki adımlar ve karşılaşılan problemlerin çözümleri:
 
 Oyun Mekaniği: Eşleştirme Sistemi
@@ -62,4 +64,4 @@ Işınlanan nesneler, fiziksel olarak sürüklenmeye devam ediyordu. Bu sorunu n
 Prefab Yönetimi:
 Işınlanan nesnelerin doğru prefab ile yeniden oluşturulmasını sağlıyor ve bu nesneleri eşleşme mekanizmasıyla uyumlu hale getiriyoruz.
 
-Oyunun linki: https://play.unity.com/en/games/cc86da5e-32ed-4a65-95a9-1831f9f71b9d/match-3d
+
